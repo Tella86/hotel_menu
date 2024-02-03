@@ -1,12 +1,12 @@
-# FOODIEme-Website
-This is design was made while keeping in mind the food delivery situation in my college area i.e pantnagar. 
+# SEA FOODS
+This is design was made while keeping in mind the food delivery situation in my LOCAL AREA . 
 
 
-# 📝 FOODIEme
+# 📝 SEA FOODS
 
 ### Live Link
-▶️ <a href="https://vikaspundir24.github.io/FOODIEme-Website/">Click Here</a>
-### A Simple food Ecommerce Website , Tech Stack used : HTML CSS and VANILLA JS
+
+### A SEA food Website : HTML CSS and JS
 
 <code>+</code> Fully Responsive 
 
@@ -18,12 +18,6 @@ This is design was made while keeping in mind the food delivery situation in my 
 
 ➡ CSS
 
-➡ VANILLA JS
+➡ JS
 
 
-# Screenshots
-
-<img src="Screenshot (55).png" alt="">
-<img src="Screenshot (56).png" alt="">
-<img src="Screenshot (57).png" alt="">
-<img src="Screenshot (58).png" alt="">
