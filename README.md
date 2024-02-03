@@ -10,8 +10,7 @@ This is design was made while keeping in mind the food delivery situation in my 
 
 <code>+</code> Fully Responsive 
 
-
-# 💻Tech Stack
+Language used
 
 
 ➡ HTML
